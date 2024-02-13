@@ -2,7 +2,7 @@ FROM debian:stretch-slim
 MAINTAINER BENSAAD Anouar bensaad.tig@gmail.com
 
 # Project Informations.
-LABEL name vulnx
+LABEL name @kristall_tt
 LABEL src "https://github.com/anouarbensaad/vulnx"
 LABEL creator anouarbensaad
 LABEL desc "Vulnx is a cms and vulnerabilites detection, an intelligent auto shell injector,\
